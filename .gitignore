@@ -69,3 +69,5 @@ multi_clone.py
 
 # Sonar
 .scannerwork
+
+.python-version
