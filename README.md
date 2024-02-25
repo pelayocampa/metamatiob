@@ -12,7 +12,7 @@ This script is working on Python 3. You should install dependencies using:
 
 Then, provide a `.env` file in the same folder you'll run the script. This file should be similar to:
 
-``` python
+``` bash
 SOURCE_INSTANCE_URL=
 SOURCE_INSTANCE_USER=
 SOURCE_INSTANCE_PASSWORD=
