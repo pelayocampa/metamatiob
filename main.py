@@ -4,7 +4,7 @@ import logging
 import json
 import time
 
-from metabase_utils import clone_dashboard as clone
+import metabase_utils.clone_dashboard as clone
 
 
 logging.basicConfig(encoding="utf-8", level=logging.INFO)
