@@ -27,3 +27,7 @@ CONFIG_FOLDER=
 `CONFIG_FOLDER` is intended for caching Dashboards, Questions that you may use on future.
 
 Provide both `SOURCE_INSTANCE_URL` and `DEST_INSTANCE_URL` starting with `https://`
+
+Run the script:
+
+`python main.py --source-dashboard ID -pm test`
